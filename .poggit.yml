@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SumXProveALPE/StoreCredit
+build-by-default: true
+branches:
+- main
+projects:
+  StoreCredit:
+    path: ""
+...
